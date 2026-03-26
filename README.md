@@ -19,9 +19,9 @@ https://www.kaggle.com/datasets/kmader/parkinsons-drawings
 ## Results
 | Model        | Validation Accuracy |
 |-------------|--------------------|
-| CNN         | 91.25%                |
-| MobileNetV2 | 76.00%                 |
-| ResNet50    | **93.33%**         |
+| CNN         | 95.03%                |
+| MobileNetV2 | 94.00%                 |
+| ResNet50    | **96.00%**         |
 
 - Best model: ResNet50
 - Achieved high accuracy in classifying Parkinson’s patterns from images
