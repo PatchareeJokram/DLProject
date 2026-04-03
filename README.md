@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/kmader/parkinsons-drawings
 
 - Best model: ResNet50
 - Achieved high accuracy in classifying Parkinson’s patterns from images
-## Tools
+## Tech Stack
 - Python
 - NumPy
 - TensorFlow / Keras
